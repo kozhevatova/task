@@ -1,7 +1,6 @@
 {
-  "name": "test",
+  "name": "task",
   "version": "1.0.0",
-  "description": "",
   "main": "task.js",
   "dependencies": {},
   "devDependencies": {
@@ -23,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/kozhevatova/tasks/issues"
   },
-  "homepage": "https://github.com/kozhevatova/tasks#readme"
+  "homepage": "https://github.com/kozhevatova/tasks#readme",
+  "description": ""
 }
